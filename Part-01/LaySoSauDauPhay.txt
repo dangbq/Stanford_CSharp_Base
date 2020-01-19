@@ -1,0 +1,26 @@
+//Bài tập 2
+            int soNguyen = 0;
+            long soNguyenDai = 0;
+            float soThuc = 0;
+            char kiTu;
+
+            Console.Write("Nhap so nguyen la: ");
+
+            soNguyen = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Nhap so nguyen dai la: ");
+
+            soNguyenDai = Convert.ToInt64(Console.ReadLine());
+
+            Console.Write("Nhap so thuc la: ");
+            //Chuyển về dạng số thực
+            soThuc = float.Parse(Console.ReadLine());
+
+            Console.Write("Nhap ki tu la: ");
+
+            kiTu = (char)Console.Read();
+
+            //In thông tin
+            Console.WriteLine("So nguyen la: {0}\n So nguyen dai la: {1}", soNguyen, soNguyenDai);
+            Console.WriteLine("So thuc la: {0:N2}", soThuc);
+            Console.WriteLine("Ki tu la: {0}", kiTu);

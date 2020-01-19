@@ -1,0 +1,2 @@
+//Hiển thị tiếng việt có dấu
+Console.OutputEncoding = Encoding.Unicode;
