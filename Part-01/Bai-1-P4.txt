@@ -1,0 +1,16 @@
+//Bài 1 - P4
+char kiTu;
+
+Console.Write("Nhập kí tự là: ");
+//Lấy kí tự đầu tiên trong mảng
+kiTu = Console.ReadLine().ToCharArray()[0];
+
+
+if((kiTu >= 65 && kiTu <= 90) || (kiTu >= 97 && kiTu <= 122))
+ {
+    Console.WriteLine("Dây là kí tự chữ");
+ }
+ else
+ {
+    Console.WriteLine("Không phải kí tự chữ");
+ }
