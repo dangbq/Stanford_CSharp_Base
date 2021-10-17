@@ -1,0 +1,16 @@
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\bin\Debug\Stanford_LapTrinhWindowsFormCS.exe.config
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\bin\Debug\Stanford_LapTrinhWindowsFormCS.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\bin\Debug\Stanford_LapTrinhWindowsFormCS.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.csproj.AssemblyReference.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.Form1.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.frmBaiTap5.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.frmBaiTap6.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.frmChuongTrinhKetBan.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.frmChuongTrinhTinhToan.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.Properties.Resources.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.csproj.GenerateResource.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.csproj.CoreCompileInputs.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.frmBaiTap7.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_LapTrinhWindowsFormCS\obj\Debug\Stanford_LapTrinhWindowsFormCS.frmBaiTap8.resources

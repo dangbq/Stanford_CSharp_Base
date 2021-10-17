@@ -1,0 +1,6 @@
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_CauTrucLapTrinhCS\bin\Debug\Stanford_CauTrucLapTrinhCS.exe.config
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_CauTrucLapTrinhCS\bin\Debug\Stanford_CauTrucLapTrinhCS.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_CauTrucLapTrinhCS\bin\Debug\Stanford_CauTrucLapTrinhCS.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_CauTrucLapTrinhCS\obj\Debug\Stanford_CauTrucLapTrinhCS.csproj.CoreCompileInputs.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_CauTrucLapTrinhCS\obj\Debug\Stanford_CauTrucLapTrinhCS.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_CauTrucLapTrinhCS\obj\Debug\Stanford_CauTrucLapTrinhCS.pdb

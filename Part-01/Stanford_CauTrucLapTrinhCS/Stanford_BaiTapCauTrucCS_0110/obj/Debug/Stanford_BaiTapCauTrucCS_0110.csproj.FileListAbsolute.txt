@@ -1,0 +1,7 @@
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucCS_0110\bin\Debug\Stanford_BaiTapCauTrucCS_0110.exe.config
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucCS_0110\bin\Debug\Stanford_BaiTapCauTrucCS_0110.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucCS_0110\bin\Debug\Stanford_BaiTapCauTrucCS_0110.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucCS_0110\obj\Debug\Stanford_BaiTapCauTrucCS_0110.csproj.AssemblyReference.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucCS_0110\obj\Debug\Stanford_BaiTapCauTrucCS_0110.csproj.CoreCompileInputs.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucCS_0110\obj\Debug\Stanford_BaiTapCauTrucCS_0110.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucCS_0110\obj\Debug\Stanford_BaiTapCauTrucCS_0110.pdb

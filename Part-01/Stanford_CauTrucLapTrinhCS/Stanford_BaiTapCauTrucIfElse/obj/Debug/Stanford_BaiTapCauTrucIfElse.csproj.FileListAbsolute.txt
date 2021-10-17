@@ -1,0 +1,7 @@
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucIfElse\bin\Debug\Stanford_BaiTapCauTrucIfElse.exe.config
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucIfElse\bin\Debug\Stanford_BaiTapCauTrucIfElse.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucIfElse\bin\Debug\Stanford_BaiTapCauTrucIfElse.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucIfElse\obj\Debug\Stanford_BaiTapCauTrucIfElse.csproj.AssemblyReference.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucIfElse\obj\Debug\Stanford_BaiTapCauTrucIfElse.csproj.CoreCompileInputs.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucIfElse\obj\Debug\Stanford_BaiTapCauTrucIfElse.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-01\Sourcecodes\Stanford_CauTrucLapTrinhCS\Stanford_BaiTapCauTrucIfElse\obj\Debug\Stanford_BaiTapCauTrucIfElse.pdb
