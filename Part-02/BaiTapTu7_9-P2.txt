@@ -1,0 +1,108 @@
+//Bài 7: Viết chương trình nhập vào N số nguyên(N nhỏ hơn 20) và tính tổng các số nguyên tố trong các số đã nhập vào đó.
+            //Khai báo biến
+            int n = 0;
+            Console.Write("Nhập mảng gồm n phần tử với n = ");
+
+            n = int.Parse(Console.ReadLine());
+
+            //Khai báo 1 mảng
+            int[] arr = new int[n];
+            int tongSo = 0, dem = 0;
+
+            //Duyệt từng giá trị
+            bool isSoNguyenTo = true;
+            for(int i = 1; i <= n; i++)
+            {
+                //Gán lại giá trị mới
+                isSoNguyenTo = true;
+                #region Kiểm tra xem có phải số nguyên tố không
+                //Lấy căn bậc hai
+                int giaTri = (int)Math.Sqrt(i);
+
+                for(int j = 2; j <= giaTri; j++)
+                {
+                    if(i%j == 0)
+                    {
+                        isSoNguyenTo = false;
+                    }
+                }
+                #endregion
+
+                if (isSoNguyenTo)
+                {
+                    arr[dem] = i;
+                    dem++;
+                    tongSo += i;
+                }
+            }
+
+            Console.WriteLine("Tổng các số nguyên tố là: {0}", tongSo);
+            Console.WriteLine("Các số nguyên tố là: ");
+            for(int i = 0; i < dem; i++)
+            {
+                Console.Write(arr[i] + "\t");
+            }
+
+            Console.WriteLine("");
+
+//Bài 8: Hãy nhập một xâu kí tự. In ra màn hình đảo ngược của xâu đó.
+            //Khai báo biến
+            string strData = "";
+            Console.Write("Nhập vào 1 chuỗi = ");
+            strData = Console.ReadLine();
+
+            Console.WriteLine("Chuỗi ngược là: ");
+            //Duyệt chuỗi ngược
+            for(int i = strData.Length -1; i>=0; i--)
+            {
+                Console.Write(strData[i]);
+            }
+
+            Console.WriteLine("");
+
+            //Bài 9: Nhập xâu. Thống kê số các chữ số ‘0’, số chữ số ‘1’, …, số chữ số ‘9’ trong xâu.
+            //Khai báo 1 biến đếm dạng mảng
+            int[] arr = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+            //Duyệt từng kí tự và thống kê
+            for(int i = 0; i < strData.Length; i++)
+            {
+                switch(strData[i])
+                {
+                    case '0': arr[0]++;
+                        break;
+                    case '1':
+                        arr[1]++;
+                        break;
+                    case '2':
+                        arr[2]++;
+                        break;
+                    case '3':
+                        arr[3]++;
+                        break;
+                    case '4':
+                        arr[4]++;
+                        break;
+                    case '5':
+                        arr[5]++;
+                        break;
+                    case '6':
+                        arr[6]++;
+                        break;
+                    case '7':
+                        arr[7]++;
+                        break;
+                    case '8':
+                        arr[8]++;
+                        break;
+                    case '9':
+                        arr[9]++;
+                        break;
+                }
+            }
+
+            Console.WriteLine("Số lượng xuất hiện các kí tự: ");
+            for(int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(i + ": " + arr[i]);
+            }

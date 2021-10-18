@@ -1,0 +1,11 @@
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\bin\Debug\Stanford_BaiTapMangWindowsForm.exe.config
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\bin\Debug\Stanford_BaiTapMangWindowsForm.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\bin\Debug\Stanford_BaiTapMangWindowsForm.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\obj\Debug\Stanford_BaiTapMangWindowsForm.csproj.AssemblyReference.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\obj\Debug\Stanford_BaiTapMangWindowsForm.Form1.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\obj\Debug\Stanford_BaiTapMangWindowsForm.Properties.Resources.resources
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\obj\Debug\Stanford_BaiTapMangWindowsForm.csproj.GenerateResource.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\obj\Debug\Stanford_BaiTapMangWindowsForm.csproj.CoreCompileInputs.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\obj\Debug\Stanford_BaiTapMangWindowsForm.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\obj\Debug\Stanford_BaiTapMangWindowsForm.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangWindowsForm\obj\Debug\Stanford_BaiTapMangWindowsForm.frmChuyenSangThapPhan.resources

@@ -1,0 +1,7 @@
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangCS\bin\Debug\Stanford_BaiTapMangCS.exe.config
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangCS\bin\Debug\Stanford_BaiTapMangCS.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangCS\bin\Debug\Stanford_BaiTapMangCS.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangCS\obj\Debug\Stanford_BaiTapMangCS.csproj.AssemblyReference.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangCS\obj\Debug\Stanford_BaiTapMangCS.csproj.CoreCompileInputs.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangCS\obj\Debug\Stanford_BaiTapMangCS.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_BaiTapMangCS\Stanford_BaiTapMangCS\obj\Debug\Stanford_BaiTapMangCS.pdb

@@ -1,0 +1,6 @@
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_LamViecVoiMangCS\Stanford_LamViecVoiDanhSachCS\bin\Debug\Stanford_LamViecVoiDanhSachCS.exe.config
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_LamViecVoiMangCS\Stanford_LamViecVoiDanhSachCS\bin\Debug\Stanford_LamViecVoiDanhSachCS.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_LamViecVoiMangCS\Stanford_LamViecVoiDanhSachCS\bin\Debug\Stanford_LamViecVoiDanhSachCS.pdb
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_LamViecVoiMangCS\Stanford_LamViecVoiDanhSachCS\obj\Debug\Stanford_LamViecVoiDanhSachCS.csproj.CoreCompileInputs.cache
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_LamViecVoiMangCS\Stanford_LamViecVoiDanhSachCS\obj\Debug\Stanford_LamViecVoiDanhSachCS.exe
+F:\Stanford\Courses\CSharp\CS0921\BaiGiang\Part-02\Sourcecodes\Stanford_LamViecVoiMangCS\Stanford_LamViecVoiDanhSachCS\obj\Debug\Stanford_LamViecVoiDanhSachCS.pdb

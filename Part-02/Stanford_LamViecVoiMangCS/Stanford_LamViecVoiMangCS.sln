@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stanford_LamViecVoiMangCS", "Stanford_LamViecVoiMangCS\Stanford_LamViecVoiMangCS.csproj", "{1DBD4BF9-3676-4853-9645-AC4935F420FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stanford_LamViecVoiDanhSachCS", "Stanford_LamViecVoiDanhSachCS\Stanford_LamViecVoiDanhSachCS.csproj", "{6D4B6255-C932-43A2-A3DD-69C6F8C26981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DBD4BF9-3676-4853-9645-AC4935F420FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBD4BF9-3676-4853-9645-AC4935F420FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBD4BF9-3676-4853-9645-AC4935F420FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBD4BF9-3676-4853-9645-AC4935F420FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4B6255-C932-43A2-A3DD-69C6F8C26981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4B6255-C932-43A2-A3DD-69C6F8C26981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4B6255-C932-43A2-A3DD-69C6F8C26981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4B6255-C932-43A2-A3DD-69C6F8C26981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40828BC7-1E0F-4EF7-98A2-C885AB9A8C78}
+	EndGlobalSection
+EndGlobal
